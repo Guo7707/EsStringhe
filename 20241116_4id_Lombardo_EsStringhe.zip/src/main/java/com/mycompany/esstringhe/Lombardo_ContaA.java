@@ -12,6 +12,10 @@ import java.util.Scanner;
  * @author Lombardo Guido
  */
 
+/*
+Questa classe contiene il metodo conta_a.
+*/
+
 public class Lombardo_ContaA {
     Scanner scanner = new Scanner(System.in);//crea un nuovo oggetto di tipo "Scanner". 
     public String stringa=scanner.nextLine();//legge l'input inserito dall'utente.
